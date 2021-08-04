@@ -20,11 +20,11 @@
  * an origin index.
  */
 #include <assert.h>
-#include <faceijk.h>
 #include <inttypes.h>
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>
+
 #include "baseCells.h"
 #include "faceijk.h"
 #include "h3Index.h"
